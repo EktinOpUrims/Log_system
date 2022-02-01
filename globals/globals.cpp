@@ -1,0 +1,1 @@
+bool colored_output_mode = 0;
